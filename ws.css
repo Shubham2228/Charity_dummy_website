@@ -101,3 +101,12 @@ footer{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.But{
+    background-color:rgb(171, 240, 244);
+    border: 2px solid black;
+    color: rgb(15, 12, 9);
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
